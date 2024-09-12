@@ -3,7 +3,7 @@
 
 # Servus! :wave:
 
-<img src="https://raw.githubusercontent.com/joan-zacharia/joan-zacharia/master/resources/helloworld.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/zacjr8/joan-zacharia/master/resources/helloworld.png" alt="Hello world">
 
 ## About Me
 
