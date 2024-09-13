@@ -13,7 +13,7 @@ I started my journey as a software developer, but cyber security quickly capture
 
 🕵️‍♂️ Part-time pentesting.
 
-### Outside the real world
+### Outside reality
 
 🏔️ You’ll find me hiking with my dog 🐕, indulging in video games 🎮, playing football ⚽, or flipping burgers on the grill. 🍔
 
