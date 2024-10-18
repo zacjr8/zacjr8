@@ -7,7 +7,7 @@
 
 ## About Me
 
-I started my journey as a software developer, but cyber security quickly captured my imagination. Inspired by *Mr Robot* series, I was drawn to the thrilling world of protecting systems and data. 
+I started my journey as a software developer, but cyber security quickly captured my imagination. Inspired by *Mr. Robot* series, I was drawn to the thrilling world of protecting systems and data. 
 
 🚀 I find cyber security fascinating and am committed to level-up my skills in risk management and data privacy.
 
