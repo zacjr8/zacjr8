@@ -17,7 +17,7 @@ I started my journey as a software developer, but cyber security quickly capture
 
 🏔️ You’ll find me hiking with my dog 🐕, indulging in video games 🎮, playing football ⚽, or flipping burgers on the grill. 🍔
 
-🎧 Music - Yanni 🎹
+🎧 Music - Avicii ◢ ◤ 
 
 <!-- ![Joan's GitHub stats](https://github-readme-stats.vercel.app/api?username=zacjr8&show_icons=true&theme=tokyonight) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zacjr8&layout=compact&theme=tokyonight)
